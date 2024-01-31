@@ -4,7 +4,7 @@ import axios from "axios";
 export default {
   data() {
     return {
-      apiKey: "9bfc080d99108c9d9dcc4f67dbc0e315",
+      apiKey: "***",
       baseLocationUri: "http://api.openweathermap.org/geo/1.0/direct?q=",
       baseWeatherUri: "https://api.openweathermap.org/data/2.5/weather?lat=",
       keyUri: "&appid=",
